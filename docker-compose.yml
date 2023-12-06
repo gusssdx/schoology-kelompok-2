@@ -18,6 +18,8 @@ services:
     links:
       - db
       - redis
+    mem_limit: 2g
+    mem_reservation: 1g
   db:
     image: 'mongo'
     container_name: SCHOOLOGY_DB
