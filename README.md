@@ -1,13 +1,17 @@
 ![](https://images.squarespace-cdn.com/content/v1/5cb36dc993a63270cfacbc2b/1568407625291-IZ079BSO4AO5K6YIM0PD/ke17ZwdGBToddI8pDm48kC9qu2gvgDc1fHZgGjPXHQ5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGsbjzQe8XprMihMEQ9UKdMwALN5jbWCRaeUKHWJatMjmVWdNHs25RwszbEzjDCTQI/Schoology?format=1000w)
 
-# Welcome to my Schoology project
+# Welcome to my Schoology Kelompok 2
 
 ## Prerequisites
-Dear reviewer, please, make sure to have `yarn` installed in your environment. To install it, please run:
+harap install `yarn` di environment. untuk install gunakan perintah
 ```
 npm install --global yarn
 ```
-You'll also need the following CLI tools: `docker` and `docker-compose` to get it running properly.
+harap install `nodejs` di environment juga. untuk install gunakan perintah
+```
+npm install --global nodejs
+```
+ diperlukan juga beberapa alat baris perintah (CLI tools) berikut: `docker` dan `docker-compose` agar semuanya berjalan dengan baik.
 
 ## Steps to get the App running
 ### First step
