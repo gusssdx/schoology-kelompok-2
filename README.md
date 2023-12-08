@@ -1,6 +1,12 @@
 ![](https://images.squarespace-cdn.com/content/v1/5cb36dc993a63270cfacbc2b/1568407625291-IZ079BSO4AO5K6YIM0PD/ke17ZwdGBToddI8pDm48kC9qu2gvgDc1fHZgGjPXHQ5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGsbjzQe8XprMihMEQ9UKdMwALN5jbWCRaeUKHWJatMjmVWdNHs25RwszbEzjDCTQI/Schoology?format=1000w)
 
 # Welcome to my Schoology Kelompok 2
+Anggota Kekompok
+- Irwan Sadar Anugrah Zega (2210511014)
+- Bagus Tri Handoko (2210511025)
+- Muhammad Dihya Al Qalby (2210511035)
+- Muhammad Azkal Azkia 	(2210511038)
+
 
 ## Prerequisites
 harap install `yarn` di environment. untuk install gunakan perintah
@@ -14,8 +20,8 @@ npm install --global nodejs
  diperlukan juga beberapa alat baris perintah (CLI tools) berikut: `docker` dan `docker-compose` agar semuanya berjalan dengan baik.
 
 ## Steps to get the App running
-### First step
-Download the source code. You could download the source code by accessing it over this link: https://github.com/DanZeuss/schoology/archive/master.zip, or, using the `git` to clone it by running the command:
+### Tahap pertama
+Download source code menggunakan perintah git clone, dengan perintah berikut
 ```
 git clone https://github.com/DanZeuss/schoology.git
 ```
