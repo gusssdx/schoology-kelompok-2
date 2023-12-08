@@ -19,7 +19,6 @@ services:
       - db
       - redis
     mem_limit: 2g
-    mem_reservation: 1g
   db:
     image: 'mongo'
     container_name: SCHOOLOGY_DB
@@ -27,8 +26,10 @@ services:
       - '27017:27017'
     volumes:
       - ./data/db:/home/data
+    mem_limit: 2g
   redis:
     container_name: SCHOOLOGY_REDIS
     image: "redis"
     ports:
       - '6379:6379'
+    mem_limit: 1g
